@@ -1,0 +1,50 @@
+*{box-sizing: border-box;
+    background-color: grey;
+}
+.parallax{background-image: url(Snapchat-490630768.jpg);
+    
+    padding: 200px;
+    height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 -50px;
+}
+.parallax1{background-image: url("Snapchat-1954113033.jpg");
+    outline-style: solid;
+    outline-color: bisque;
+    outline-width: 20px;
+    margin: 20px;
+    height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 -100px;
+}
+.parallax2{background-image: url("Snapchat-186992434.jpg");
+    outline-style: solid;
+    outline-color: bisque;
+    outline-width: 20px;
+    margin: 50px;
+    height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 -1300px;
+}
+.parallax3{background-image: url("Snapchat-1177794694.jpg");
+    outline-style: solid;
+    outline-color: bisque;
+    outline-width: 20px;
+    margin: 50px;
+    height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 -100px;
+}
+h1{
+    height: 100px;
+    text-align: center;
+    padding-top: 25px;
+}
