@@ -1,0 +1,26 @@
+*{box-sizing: border-box;
+}
+.outer{background-color: lightgray;
+        margin: 5px;
+        padding: 50px;
+        text-align: center;
+}
+.inner{background-color: grey;
+    height: 400px;
+}
+
+
+img{float: left;
+    width: 180px;   
+    border: 1px solid grey;
+    margin: 25px;
+}
+img:hover{border: 1px solid rgb(31, 215, 199);
+    transform: scale(1.2);
+    animation-duration: 20s;
+}
+div.gallery img{
+    float: left;
+    width: 150px;
+    height: 150px;
+}
