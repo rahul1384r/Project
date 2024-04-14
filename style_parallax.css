@@ -1,7 +1,7 @@
 *{box-sizing: border-box;
     background-color: grey;
 }
-.parallax{background-image: url(Snapchat-490630768.jpg);
+.parallax{background-image: url(tree-736885_1280.jpg);
     
     padding: 200px;
     height: 500px;
@@ -10,7 +10,7 @@
     background-size: cover;
     background-position: 0 -50px;
 }
-.parallax1{background-image: url("Snapchat-1954113033.jpg");
+.parallax1{background-image: url(mahadev-dp02.jpg);
     outline-style: solid;
     outline-color: bisque;
     outline-width: 20px;
@@ -21,7 +21,7 @@
     background-size: cover;
     background-position: 0 -100px;
 }
-.parallax2{background-image: url("Snapchat-186992434.jpg");
+.parallax2{background-image: url(images.jpeg);
     outline-style: solid;
     outline-color: bisque;
     outline-width: 20px;
@@ -32,7 +32,7 @@
     background-size: cover;
     background-position: 0 -1300px;
 }
-.parallax3{background-image: url("Snapchat-1177794694.jpg");
+.parallax3{background-image: url(holding-a-tree-in-a-ball-ecology-and-environment-concept-with-generative-ai-photo.jpg);
     outline-style: solid;
     outline-color: bisque;
     outline-width: 20px;

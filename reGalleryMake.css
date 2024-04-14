@@ -1,0 +1,19 @@
+#outer{text-align: center;
+    background-color: lightgray;
+    /* display:inline-block; */
+}
+#inner{background-color: gray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+img:hover{
+    transform: scale(1.2);
+}
+

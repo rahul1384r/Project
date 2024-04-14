@@ -17,10 +17,10 @@ img{float: left;
 }
 img:hover{border: 1px solid rgb(31, 215, 199);
     transform: scale(1.2);
-    animation-duration: 20s;
+    transition-duration: 1s;
 }
 div.gallery img{
-    float: left;
+    /* float: left; */
     width: 150px;
     height: 150px;
 }
